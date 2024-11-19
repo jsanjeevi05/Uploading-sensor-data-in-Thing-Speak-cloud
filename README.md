@@ -129,7 +129,7 @@ void loop()
 }
 ```
 # CIRCUIT DIAGRAM:
-![image](https://github.com/gorghs/Uploading-sensor-data-in-Thing-Speak-cloud/assets/149037461/b93f4d6c-5999-48b1-9c6b-a27bcbd406a2)
+![POIexp4CD](https://github.com/Yuvakrishna0/Uploading-sensor-data-in-Thing-Speak-cloud/assets/117915037/9798f0ba-6f1e-434e-bfc8-7585802e543c)
 # OUTPUT:
 ![image](https://github.com/Prajeeth17/Uploading-sensor-data-in-Thing-Speak-cloud/assets/120513885/68f688f7-fa3c-442d-b30b-426f39a9ff7d)
 
